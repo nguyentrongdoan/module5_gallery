@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "garelly"
+    }
+  },
+  "defaultProject": "garelly",
+  "cli": {
+    "analytics": false
+  }
 }
